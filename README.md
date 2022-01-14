@@ -19,8 +19,32 @@ The application is not near finished yet, because there is still lots of functio
 * Activating "My reviews" view and the form where you can save your billing informations.
 
 ## Please feel free to try out the application
-I haven't added any pictures of the application yet because it's still underway.
-
 But in the meanwhile you can check the app out at: https://calm-beyond-06190.herokuapp.com/
 
 If you are interested to be involved with this application and improve it with me, send me message at: ali.sheerzad9@gmail.com
+
+## Pictures of the Application
+
+## Frontpage
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/Frontpage.png)
+
+## The Sea Explorer tour page
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/The-Sea-Explorer-Tour.png)
+
+## Login page
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/Login-page.png)
+
+## Profile page of user
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/Profile-settings-page-user.png)
+
+## Profile page of admin
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/Profile-settings-page-admin.png)
+
+## Checkout, done with Stripe's online payment processing checkout session
+![Picture of application](https://github.com/Sheerzad9/Natours-App/blob/master/Pictures/Stripe-checkout-session.png)
+
+
+
+
+
+
