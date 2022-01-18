@@ -2,7 +2,7 @@
 
 ## About the application
 This is my biggest application till to day. This application is heavily focused on the backend (Node.JS / Express.JS) and the database is Mongo.DB and on top of that I used Mongoose.
-Every page is rendered on the server side with Pug.js 👀, yep I know what some people think about Pug.js...please dont judge me😁 I am still learning. This project was part of online course.
+Every page is rendered on the server side with Pug.js 👀, yep I know what some people think about Pug.js...😁 I am still learning. This project was part of online course.
 In this application:
 * You can take a look at different hiking tours.
 * Login (test user credentials, username: loulou@example.com Pwd: test1234).
